@@ -1,0 +1,77 @@
+
+@import url('https://fonts.googleapis.com/css?family=Crimson+Text|Open+Sans');
+
+body
+{
+    font-family: 'Open Sans', sans-serif;
+}
+
+#main
+{
+    margin: 30px auto;
+    padding: 5px;
+    background: #eee;
+}
+
+h1,h2,h3
+{
+    font-family: 'Crimson Text', serif;
+}
+
+header
+{
+    text-align: center;
+}
+
+#img-div
+{
+    margin: auto;
+    margin-top: 20px;
+    padding: 15px;
+    width: 95%;
+    background: white;
+    border-radius: 5px;
+    text-align: center;
+}
+
+img 
+{
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: auto;
+    margin-top: 10px;
+}
+
+#img-caption
+{
+    margin: 15px;
+    font-size: 12px;
+    font-style: italic;
+}
+
+#tribute-info, footer
+{
+    margin: 20px auto;
+    max-width: 600px;
+}
+
+#subtitle
+{
+    margin-top: -10px;
+    font-style: italic;
+    font-size: 14px;
+}
+
+ul
+{
+    max-width:550px;
+    margin:0 auto;
+    text-align:left;
+}
+
+li
+{
+    margin: 5px;
+}
+
